@@ -1,0 +1,9 @@
+{
+  "name": "abc2audio",
+  "version": "1.0.0",
+  "description": "Convert ABC notation to audio using abcjs, FluidSynth and ffmpeg",
+  "private": true,
+  "dependencies": {
+    "abcjs": "6.7.2"
+  }
+}
